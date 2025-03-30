@@ -4,9 +4,9 @@
 
 project = 'NoobCogs'
 copyright = '2025, NoobInDaHause'
-author = 'Graziella'
+author = 'NoobInDaHause'
 
-release = '0.1'
+release = '1.0'
 version = '1.0.0'
 
 # -- General configuration
